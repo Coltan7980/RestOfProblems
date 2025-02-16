@@ -1,0 +1,14 @@
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\bin\Debug\net8.0\RestOfProblems.exe
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\bin\Debug\net8.0\RestOfProblems.deps.json
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\bin\Debug\net8.0\RestOfProblems.runtimeconfig.json
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\bin\Debug\net8.0\RestOfProblems.dll
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\bin\Debug\net8.0\RestOfProblems.pdb
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.AssemblyInfoInputs.cache
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.AssemblyInfo.cs
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.csproj.CoreCompileInputs.cache
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.dll
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\refint\RestOfProblems.dll
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.pdb
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\RestOfProblems.genruntimeconfig.cache
+C:\Users\paulc\OneDrive\Desktop\C# Folder\RestOfProblems\obj\Debug\net8.0\ref\RestOfProblems.dll
