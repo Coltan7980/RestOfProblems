@@ -12,11 +12,13 @@
             Console.Write("\n");
             Console.WriteLine(Methods.GetAbsoluteSum(lyst));
             Console.WriteLine(Methods.SmallerNum(5,6));
+            Console.WriteLine(Methods.WillOfD("d is a D word with d in it"));
             
             foreach (int i in Methods.MultiplyByLength(lyst))
             {
                 Console.Write(i + " ");
             }
         }
+        
     }
 }

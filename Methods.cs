@@ -66,5 +66,18 @@ namespace RestOfProblems
                 return Num2;
             }
         }
+        public static int WillOfD(string statement)
+        {
+            int numOfD = 0;
+            for (int i = 0; i <= (statement.Length - 1); i++)
+            {
+                
+                if (statement[i] == 'D' || statement[i] == 'd')
+                {
+                    numOfD += 1;
+                }
+            }
+            return numOfD;
+        }
     }
 }
